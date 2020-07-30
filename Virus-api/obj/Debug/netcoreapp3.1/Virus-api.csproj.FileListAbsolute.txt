@@ -1,0 +1,17 @@
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\appsettings.json
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\Virus-api.exe
+D:\POC\Virus-api\Virus-api\obj\Debug\netcoreapp3.1\Virus-api.csprojAssemblyReference.cache
+D:\POC\Virus-api\Virus-api\obj\Debug\netcoreapp3.1\Virus-api.AssemblyInfoInputs.cache
+D:\POC\Virus-api\Virus-api\obj\Debug\netcoreapp3.1\Virus-api.AssemblyInfo.cs
+D:\POC\Virus-api\Virus-api\obj\Debug\netcoreapp3.1\Virus-api.RazorTargetAssemblyInfo.cache
+D:\POC\Virus-api\Virus-api\obj\Debug\netcoreapp3.1\staticwebassets\Virus-api.StaticWebAssets.Manifest.cache
+D:\POC\Virus-api\Virus-api\obj\Debug\netcoreapp3.1\staticwebassets\Virus-api.StaticWebAssets.xml
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\DnsClient.dll
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+D:\POC\Virus-api\Virus-api\bin\Debug\netcoreapp3.1\SharpCompress.dll
+D:\POC\Virus-api\Virus-api\obj\Debug\netcoreapp3.1\Virus-api.csproj.CopyComplete
